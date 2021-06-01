@@ -3,9 +3,7 @@
 # 3. Download covid-vaccine-slot-booking.exe https://github.com/bombardier-gif/covid-vaccine-booking/releases/download/v1.0.3/covid-vaccine-slot-booking.exe
 # 4. For Android users, install IFTTT app and create applet to read CoWIN OTPs.
   - Follow these steps:
-  - ![image](https://user-images.githubusercontent.com/24732635/120359273-1f397e80-c325-11eb-94f4-5deaf0cdea12.png)
-  - ![image](https://user-images.githubusercontent.com/24732635/120359428-47c17880-c325-11eb-898d-b12bf41201a2.png)
-  - ![image](https://user-images.githubusercontent.com/24732635/120359553-6cb5eb80-c325-11eb-9846-389ae25c68f4.png)
+  - ![image](https://user-images.githubusercontent.com/24732635/120359273-1f397e80-c325-11eb-94f4-5deaf0cdea12.png) - ![image](https://user-images.githubusercontent.com/24732635/120359428-47c17880-c325-11eb-898d-b12bf41201a2.png) - ![image](https://user-images.githubusercontent.com/24732635/120359553-6cb5eb80-c325-11eb-9846-389ae25c68f4.png)
   - ![image](https://user-images.githubusercontent.com/24732635/120359485-590a8500-c325-11eb-950e-d49ade4ab3c8.png)
   - ![image](https://user-images.githubusercontent.com/24732635/120359645-87886000-c325-11eb-9f18-a9065bf328b8.png)
   - ![image](https://user-images.githubusercontent.com/24732635/120359682-953de580-c325-11eb-9733-92369429c248.png)
