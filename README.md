@@ -11,6 +11,10 @@
   - ![image](https://user-images.githubusercontent.com/24732635/120359485-590a8500-c325-11eb-950e-d49ade4ab3c8.png) - ![image](https://user-images.githubusercontent.com/24732635/120359645-87886000-c325-11eb-9f18-a9065bf328b8.png) - ![image](https://user-images.githubusercontent.com/24732635/120359682-953de580-c325-11eb-9733-92369429c248.png)
   - ![image](https://user-images.githubusercontent.com/24732635/120359743-ab4ba600-c325-11eb-995f-d85766ffca62.png) - ![image](https://user-images.githubusercontent.com/24732635/120359831-c0c0d000-c325-11eb-860d-2f231ebd6dcc.png) - ![image](https://user-images.githubusercontent.com/24732635/120367198-329d1780-c32e-11eb-9b1c-0992917b862a.png)
   - ![image](https://user-images.githubusercontent.com/24732635/120367277-4cd6f580-c32e-11eb-9bce-963be0c99827.png) - ![image](https://user-images.githubusercontent.com/24732635/120367323-58c2b780-c32e-11eb-99d9-2f855bbd62c0.png) - ![image](https://user-images.githubusercontent.com/24732635/120367526-99bacc00-c32e-11eb-9173-5c9d2aae3223.png)
+  - ![image](https://user-images.githubusercontent.com/24732635/120368443-b277b180-c32f-11eb-9854-5e9a78098c1e.png) - ![image](https://user-images.githubusercontent.com/24732635/120368485-c15e6400-c32f-11eb-8910-31ba031df053.png) ![image](https://user-images.githubusercontent.com/24732635/120368520-cb806280-c32f-11eb-981d-dde5f2bf8de3.png)
+  - ![image](https://user-images.githubusercontent.com/24732635/120368564-d509ca80-c32f-11eb-97c2-a8d3d835bfea.png) ![image](https://user-images.githubusercontent.com/24732635/120368699-01bde200-c330-11eb-94ac-4bdacf39fc19.png) ![image](https://user-images.githubusercontent.com/24732635/120368718-084c5980-c330-11eb-979f-24d52039345f.png)
+  - Now the applet is running:![image](https://user-images.githubusercontent.com/24732635/120368768-1ac69300-c330-11eb-9faf-5e8836881b49.png)
+
 ## 5. For iOS users, use Shortcuts app to read CoWIN OTPs.
   - Follow these steps:
   - ![image](https://user-images.githubusercontent.com/24732635/120358986-c964d680-c324-11eb-83e3-607f0a008de1.png)
